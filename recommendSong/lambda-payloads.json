@@ -1,0 +1,16 @@
+{
+    "recommendSong": {
+        "lambda": {
+            "analysedMessage": {
+                "sentences": [
+                    {
+                        "text": {
+                            "content": "CDランキング",
+                            "beginOffset": -1
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

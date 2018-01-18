@@ -1,0 +1,23 @@
+{
+  "name": "recommendsong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nst-ilab/recommendSong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nst-ilab/recommendSong/issues"
+  },
+  "homepage": "https://github.com/Nst-ilab/recommendSong#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "moji": "^0.5.1"
+  }
+}
